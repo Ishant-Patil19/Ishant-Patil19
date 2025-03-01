@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishant-Patil19
-- 👀 I’m interested in Full-Stack Web Development as well as Cisco Networking
+- 👀 I’m interested in Cisco Networking
 - 🌱 I’m currently learning Bachelor's of Science in Computer Science
 - 💞️ I’m looking to collaborate on various tech as well as general discussions
 - 📫 How to reach me: affilioxpress@hotmail.com
